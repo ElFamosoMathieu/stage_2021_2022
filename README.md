@@ -10,4 +10,4 @@ Entreprises : Les papeteries de Clairefontaine
 
 Sujet du stage : Réalisation d'une interface affichant la détection des défauts du papier.
 
-Note finale : 17
+Note finale : 17    ( nominé au concours du meilleur stage )
